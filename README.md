@@ -20,7 +20,7 @@ I really like things related to software development, like web development. I li
 
 ## 👱🏻‍♂️ About Personal Stuff :
 - 🛠 &nbsp; I’m currently studying with PHP, Go, C++, Python Language, etc.
-- 🚀 &nbsp; I’m currently learning about Frontend Developer
+- 🚀 &nbsp; I’m currently learning about Web Developer
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rillyaa)
 - 💬 &nbsp; Ask me about anything [here](https://github.com/rillyaa/rillyaa/issues/1)! I am very open to this😊
 
