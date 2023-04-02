@@ -4,7 +4,7 @@ Hey there 👋, I'm [Cherill](https://github.com/rillyaa) here!
 </h3>
 
 <h2 align="center">
-I'm a 2nd year Informatics Engineering/Computer Science Student 💻!
+I'm a 2nd year Informatics / Computer Science Student 💻!
 </h2> 
 
 I really like things related to software development, like web development. I like static thinking, and of course willing to face unexpected problems and always improve my programming skills and armed with logic. I am interested in the Frontend Developer role. Not closing the possibility, I also really like things that are very unexpected 🙌.
