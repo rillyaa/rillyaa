@@ -4,7 +4,7 @@ Hey there 👋, I'm [Cherill](https://github.com/rillyaa) here!
 </h3>
 
 <h2 align="center">
-I'm a 2nd year Informatics / Computer Science Student 💻!
+I'm a 3rd year Informatics / Computer Science Student 💻!
 </h2> 
 
 I really like things related to software development, like web development. I like static thinking, and of course willing to face unexpected problems and always improve my programming skills and armed with logic. I am interested in the Frontend Developer role. Not closing the possibility, I also really like things that are very unexpected 🙌.
@@ -21,11 +21,6 @@ I really like things related to software development, like web development. I li
 ## 👱🏻‍♂️ About Personal Stuff :
 - 🛠 &nbsp; I’m currently studying with PHP, Go, C++, Python Language, etc.
 - 🚀 &nbsp; I’m currently learning about Web Developer
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rillyaa)
-- 💬 &nbsp; Ask me about anything [here](https://github.com/rillyaa/rillyaa/issues/1)! I am very open to this😊
-
-## ⚡ My Absolute Favorites:
-
 - 💻 I love exploring new tech stack and building cool new stuffs.
 - 📰 Read & write daily achievements and dreams.
 
